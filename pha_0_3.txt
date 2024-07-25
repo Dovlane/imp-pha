@@ -1,0 +1,12 @@
+﻿periodican signal za rasterentni ventil pumpe
+[0 1.2 2 6.04 6.16 8]
+[-0.1 -0.1 0.1 0.1 -0.1 -0.1]
+
+periodican signal za rasteretni ventil akumulatora
+	Valve Position 1 = Valve Position
+	
+	Valve Position 2 = -Valve Position
+	
+	Valve Position 3
+	[0 1 2 4 6 8]
+	[-0.1 0.1 0.1 -0.1 -0.1 0.1]
