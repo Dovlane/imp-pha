@@ -1,4 +1,4 @@
-﻿periodican signal za rasterentni ventil pumpe
+periodican signal za rasterentni ventil pumpe
 [0 1.2 2 6.04 6.16 8]
 [-0.1 -0.1 0.1 0.1 -0.1 -0.1]
 
