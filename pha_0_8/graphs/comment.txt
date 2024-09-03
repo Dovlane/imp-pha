@@ -1,8 +1,0 @@
-before_pump_id - there was only a PID used for the servovalve signal
-after_pump_id - besides PID for servovalve signal, I added also a PID for a pump
-
-
-I would say that piston position follows desired position with similiar efficiency before and
-after adding same PID*
-
-*Unfortunately I changed pulse frequency for after_pump_id to be twice slower than before.
